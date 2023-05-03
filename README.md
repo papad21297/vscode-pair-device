@@ -1,7 +1,3 @@
 # vscode-pair-device
 
-session URL:
-
-```
-https://prod.liveshare.vsengsaas.visualstudio.com/join?63AB57EF48EE41B9E55FEDA470E2F8B711D8
-```
+session URL [click](https://prod.liveshare.vsengsaas.visualstudio.com/join?0A10DF82595EF0AF656D6561D580B93D01E8)
